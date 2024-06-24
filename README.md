@@ -8,7 +8,7 @@ This guide provides comprehensive instructions for downloading, installing, and 
 
 ## Downloading PowerShell
 
-To download the PowerShell installer, follow these steps:
+To download the **PowerShell installer**, follow these steps:
 
 1. Visit the official PowerShell GitHub releases page: [PowerShell Releases](https://github.com/PowerShell/PowerShell/releases) for the latest versions.
 2. Alternatively, for specific custom versions, Both MSI are from the Offical Powershell Github Page, you can visit the KernFerm GitHub page: [Bubbles The Dev - PowerShell](https://github.com/KernFerm/PowerShell).
