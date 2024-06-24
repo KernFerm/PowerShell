@@ -21,7 +21,7 @@ To download the PowerShell installer, follow these steps:
 
 After downloading the MSI file, install PowerShell by following these steps:
 
-1. Navigate to the folder where you downloaded the MSI file.
+1. Navigate to the folder where you downloaded the `MSI file`.
 2. `Right-click` on the downloaded `MSI file` and select 'Install'.
 3. Follow the `on-screen instructions` to complete the installation.
 
