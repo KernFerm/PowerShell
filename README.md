@@ -22,8 +22,8 @@ To download the PowerShell installer, follow these steps:
 After downloading the MSI file, install PowerShell by following these steps:
 
 1. Navigate to the folder where you downloaded the MSI file.
-2. Right-click on the downloaded MSI file and select 'Install'.
-3. Follow the on-screen instructions to complete the installation.
+2. `Right-click` on the downloaded `MSI file` and select 'Install'.
+3. Follow the `on-screen instructions` to complete the installation.
 
 ## Verifying the Installation
 
@@ -31,7 +31,7 @@ To ensure PowerShell was installed correctly:
 
 1. Open PowerShell by searching for it in the Start Menu.
 2. In the PowerShell window, type `$PSVersionTable.PSVersion` and press Enter.
-3. Verify that the version number matches the version you installed, ideally v7.4.3 for the latest features and security updates.
+3. Verify that the version number matches the version you installed, ideally `v7.4.3` for the latest features and security updates.
 
 By following these instructions, you can successfully download, install, and verify PowerShell on your system, ensuring you have the necessary tools to execute scripts and manage your environment efficiently.
 
