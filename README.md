@@ -27,7 +27,7 @@ After downloading the **MSI file**, install PowerShell by following these steps:
 
 ## Verifying the Installation
 
-To ensure PowerShell was installed correctly:
+To ensure **PowerShell** was installed correctly:
 
 1. Open `PowerShell` by searching for it in the Start Menu.
 2. In the `PowerShell` window, type `$PSVersionTable.PSVersion` and press Enter.
