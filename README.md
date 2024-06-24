@@ -15,7 +15,7 @@ To download the PowerShell installer, follow these steps:
 3. Choose the installer that matches your PC specifications: either 32-bit or 64-bit.
     - For 64-bit systems, download the 64-bit installer: [Download 64-Bit Installer](https://github.com/PowerShell/PowerShell/releases/download/v7.4.3/PowerShell-7.4.3-win-x64.msi)
     - For 32-bit systems, download the 32-bit installer: [Download 32-Bit Installer](https://github.com/PowerShell/PowerShell/releases/download/v7.4.3/PowerShell-7.4.3-win-x86.msi)
-4. Select the version of PowerShell you wish to install, with v7.4.3 being the latest recommended version.
+4. Select the version of PowerShell you wish to install, with `v7.4.3` being the latest recommended version.
 
 ## Installing PowerShell
 
