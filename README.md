@@ -1,6 +1,6 @@
 # PowerShell Installation Guide
 
-This guide provides comprehensive instructions for downloading, installing, and verifying PowerShell on your system, ensuring you have the latest recommended version (v7.4.3) installed.
+This guide provides comprehensive instructions for downloading, installing, and verifying PowerShell on your system, ensuring you have the latest recommended version (v7.4.4) installed.
 
 ## how to download the repo first time users
 
