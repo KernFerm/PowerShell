@@ -1,3 +1,8 @@
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+
+
 # 🖥️ PowerShell Installation Guide
 
 This guide provides **comprehensive instructions** for downloading, installing, and verifying PowerShell on your system, ensuring you have the **latest recommended version** (v7.4.5) installed 🚀.
