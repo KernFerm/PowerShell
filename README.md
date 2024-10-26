@@ -23,12 +23,12 @@ To download the **PowerShell installer**, follow these steps:
 2. Alternatively, for specific custom versions, you can visit the KernFerm GitHub page: [Bubbles The Dev - PowerShell](https://github.com/KernFerm/PowerShell).
 3. Choose the installer that matches your PC specifications: either `32-bit` or `64-bit` ⚙️.
 
-### 🔧 v7.4.5 Release of PowerShell - Latest (recommended)
+### 🔧 v7.4.6 Release of PowerShell - Latest (recommended)
 
 Select the version that matches your system specs:
 
-- For **Windows 64-bit systems**: [Download 64-Bit Installer](https://github.com/PowerShell/PowerShell/releases/download/v7.4.5/PowerShell-7.4.5-win-x64.msi)
-- For **Windows 32-bit systems**: [Download 32-Bit Installer](https://github.com/PowerShell/PowerShell/releases/download/v7.4.5/PowerShell-7.4.5-win-x86.msi)
+- For **Windows 64-bit systems**: [Download 64-Bit Installer](https://github.com/PowerShell/PowerShell/releases/download/v7.4.6/PowerShell-7.4.6-win-x64.msi)
+- For **Windows 32-bit systems**: [Download 32-Bit Installer](https://github.com/PowerShell/PowerShell/releases/download/v7.4.6/PowerShell-7.4.6-win-x86.msi)
 
 ### ✅ Installing PowerShell
 
